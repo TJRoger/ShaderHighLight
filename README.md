@@ -21,4 +21,4 @@ BundleInstall
 - 第一个版本做得比较急，unity的shaderlab高亮还不完善，后续会慢慢完善
 
 ##效果图
-![输入图片说明](http://git.oschina.net/uploads/images/2015/0627/191658_07124fff_5138.png "在这里输入图片标题")
+![输入图片说明](http://git.oschina.net/uploads/images/2015/0627/191658_07124fff_5138.png)
